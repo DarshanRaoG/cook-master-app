@@ -42,8 +42,8 @@
     REM Wait for a few seconds to ensure Spring Boot has started
     timeout /t 10 > nul
     
-    REM Open localhost:8081 in the default web browser
-    start http://localhost:8081
+    REM Open localhost:8080 in the default web browser
+    start http://localhost:8080
     
     REM Wait for user to close the command prompt window
     echo Press any key to stop servers and exit...
@@ -55,5 +55,8 @@
     net stop MySQL
     ```
 
-   ## Images
-
+## Demo
+<p align="center">
+  
+  ![Alt Text](https://github.com/DarshanRaoG/cook-master-app/blob/main/cookmaster-demo-720p.gif)
+</p>
