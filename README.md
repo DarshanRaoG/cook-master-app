@@ -60,3 +60,6 @@
   
   ![Alt Text](https://github.com/DarshanRaoG/cook-master-app/blob/main/cookmaster-demo-720p.gif)
 </p>
+
+## Attribution Appreciated!
+* If you use my code, kindly attribute it to me (https://github.com/DarshanRaoG). Thank you!
