@@ -55,11 +55,17 @@
     net stop MySQL
     ```
 
-## Demo
+## Images
 <p align="center">
   
   ![Alt Text](https://github.com/DarshanRaoG/cook-master-app/blob/main/cookmaster-demo-720p.gif)
 </p>
+
+<p align="center">
+<img src="https://github.com/DarshanRaoG/cook-master-app/blob/main/images/img1.PNG" width="70%">
+<img src="https://github.com/DarshanRaoG/cook-master-app/blob/main/images/img2.PNG" width="70%">
+</p>
+
 
 ## Attribution Appreciated!
 * If you use my code, kindly attribute it to me (https://github.com/DarshanRaoG). Thank you!
